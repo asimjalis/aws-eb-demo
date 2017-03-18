@@ -49,7 +49,7 @@ Choices to make in the `eb init` command line dialog.
 
 Create environment.
 
-    eb create tomcat-snakes-0 \
+    eb create tomcat-snakes \
       --sample \
       --single \
       --timeout 20 -i t2.micro \
